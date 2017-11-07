@@ -121,6 +121,7 @@ hr {
 .stuff4 {
   font-family: 'Righteous', cursive;
   background: #90ee90;
+  text-align: center;
   border: solid #90ee90 0px;
   border-right-width: 35px;
   margin-top: 0px;
@@ -464,6 +465,7 @@ th {
   .stuff4 {
     font-family: 'Righteous', cursive;
     font-size: 3.56rem;
+    text-align: center;
     background: #90ee90;
     border: solid #90ee90 0px;
     border-right-width: 35px;
