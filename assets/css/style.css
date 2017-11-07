@@ -450,8 +450,8 @@ th {
     display: inline-block;
     height: 70px;
     line-height: 36px;
-    padding-top: 15px;
-    padding-bottom: 55px;
+    padding-top: 5px;
+    padding-bottom: 10px;
     padding-left: 500px;
     padding-right: 520px;
     opacity: 0.8;
