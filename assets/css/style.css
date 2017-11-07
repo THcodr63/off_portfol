@@ -440,6 +440,7 @@ th {
   }
   .stuff2 {
     font-family: 'Righteous', cursive;
+    font-size: 3.56rem;
     background: #ccccfe;
     border: solid #ccccfe 10px;
     text-align: center;
@@ -450,7 +451,7 @@ th {
     height: 70px;
     line-height: 36px;
     padding-top: 15px;
-    padding-bottom: 70px;
+    padding-bottom: 55px;
     padding-left: 500px;
     padding-right: 520px;
     opacity: 0.8;
@@ -462,11 +463,12 @@ th {
   }
   .stuff4 {
     font-family: 'Righteous', cursive;
+    font-size: 3.56rem;
     background: #90ee90;
     border: solid #90ee90 0px;
     border-right-width: 35px;
     margin-top: 0px;
-    margin-left: -190px;
+    margin-left: -250px;
     margin-right: 0px;
     margin-bottom: -20px;
     border-radius: 4px;
