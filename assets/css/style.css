@@ -1,3 +1,6 @@
+.poppic {
+  align-content: right;
+}
 hr {
   margin-bottom: 20px;
 }
@@ -154,6 +157,13 @@ h2 {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+.font-p2 {
+  font-family: 'righteous', cursive;
+}
+.font-p3 {
+  font-family: 'poiret one', cursive;
+}
+
 #occup {
   font-family: 'Poiret One', cursive;
   font-size: 18px;
