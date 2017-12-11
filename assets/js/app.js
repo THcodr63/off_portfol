@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".dropdown-button").dropdown({ hover: false });
+    $(".dropdown-button").dropdown();
     $('.parallax').parallax();
 });
 
