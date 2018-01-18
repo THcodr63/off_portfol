@@ -15,7 +15,10 @@ function autoplay() {
   setTimeout(autoplay, 3000);
 }
 
-// Form
+//Media
+$(document).ready(function(){
+  $('.materialboxed').materialbox();
+});
 
 
 
